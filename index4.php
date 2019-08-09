@@ -1,2 +1,2 @@
 <?php
-echo 'php74';
+echo 'php74，1234';
